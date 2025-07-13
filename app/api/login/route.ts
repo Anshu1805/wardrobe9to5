@@ -1,2 +1,2 @@
-import prisma from "@/prisma/psima";
-export async function GET() {}
+// import prisma from "@/prisma/psima";
+// export async function GET() {}
